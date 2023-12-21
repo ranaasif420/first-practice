@@ -12,6 +12,19 @@ header {
     padding: 0px 15px 0px 15px;
 }
 
+.section-a{
+    background-color: red;
+
+}
+.page-width{
+    max-width: 1250;
+    margin: auto;
+
+
+}
+
+
+
 .f-nav ul li {
 
     display: inline-block;
